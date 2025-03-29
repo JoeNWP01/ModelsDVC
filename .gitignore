@@ -1,2 +1,4 @@
 .dvc
 .dvcignore
+./data.xml
+/data.xml
